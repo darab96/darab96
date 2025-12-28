@@ -1,9 +1,13 @@
 <div align="center">
 
-<h1 style="font-size: 3.2em; margin-bottom: 0.2em;"># **Mohammad Darab Hasan Khan**</h1>
+<h1 style="font-size: 3.2em; margin-bottom: 0.2em;">
+  <strong>Mohammad Darab Hasan Khan</strong>
+</h1>
 
-### **Transaction Risk Investigator at Amazon | Data Analyst / Business Analyst**
-**SQL • Excel • Power BI • Python**
+<hr style="height:4px;border:none;background-color:#000;width:60%;" />
+
+<h3><strong> | Data Analyst | Investigation Specialist @ Amazon | Ex- Accenture | Insight-Driven Excel & Power BI Pro | </strong></h3>
+<strong>SQL • Excel • Power BI • Python</strong>
 
 </div>
 
