@@ -4,8 +4,6 @@
   <strong>Mohammad Darab Hasan Khan</strong>
 </h1>
 
-<hr style="height:4px;border:none;background-color:#000;width:60%;" />
-
 <h3><strong> | Data Analyst | Investigation Specialist @ Amazon | Ex- Accenture | Insight-Driven Excel & Power BI Pro | </strong></h3>
 <strong>SQL • Excel • Power BI • Python</strong>
 
