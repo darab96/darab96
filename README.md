@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Mohammad Darab Hasan Khan**
+<h1 style="font-size: 3.2em; margin-bottom: 0.2em;"># **Mohammad Darab Hasan Khan**</h1>
 
 ### **Transaction Risk Investigator at Amazon | Data Analyst / Business Analyst**
 **SQL • Excel • Power BI • Python**
