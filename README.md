@@ -1,6 +1,6 @@
 <div align="center">
 
-# **Hi, I’m Darab**
+# **Mohammad Darab Hasan Khan**
 
 ### **Transaction Risk Investigator at Amazon | Data Analyst / Business Analyst**
 **SQL • Excel • Power BI • Python**
