@@ -1,3 +1,11 @@
+# **Hi, I’m Darab**
+
+<hr style="height:4px;border:none;background-color:#000;" />
+
+### **Transaction Risk Investigator at Amazon | Data Analyst / Business Analyst**
+**SQL • Excel • Power BI • Python**
+
+
 # 💫 About Me:
 🔭 I’m currently working on  <br>Practical data analysis and BI projects using SQL, Excel, Python, and Power BI, with a focus on turning data into clear, actionable insights.<br><br>👯 I’m looking to collaborate on  <br>Data analysis, business intelligence dashboards, SQL reporting, and real-world analytics case studies.<br><br>🤝 I’m looking for help with  <br>Advanced SQL techniques, Power BI (DAX), and improving data storytelling for business stakeholders.<br><br>🌱 I’m currently learning  <br>Advanced SQL, Python for data analysis, Power BI (DAX), and structured approaches to business analytics.<br><br>💬 Ask me about  <br>Data analysis, fraud & risk investigations, Excel reporting, SQL queries, KPI tracking, and business-focused analytics.<br><br>⚡ Fun fact  <br>I moved into analytics by solving real operational problems first — the data came before the dashboards.
 
@@ -15,5 +23,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=darab96&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
