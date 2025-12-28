@@ -1,7 +1,5 @@
 # **Hi, I’m Darab**
 
-<hr style="height:4px;border:none;background-color:#000;" />
-
 ### **Transaction Risk Investigator at Amazon | Data Analyst / Business Analyst**
 **SQL • Excel • Power BI • Python**
 
